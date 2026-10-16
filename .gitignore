@@ -5,3 +5,7 @@ venv/
 .coverage
 htmlcov/
 .pytest_cache/
+build/
+staged/
+*.zip
+app.log
